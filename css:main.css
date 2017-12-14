@@ -1,5 +1,4 @@
 body {
-    background-color: coral;
     margin: 60px auto;
     width: 70%;
 }
@@ -10,6 +9,7 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
+    background-color: blue;
     display: inline;
     margin-right: 20px;
 }
